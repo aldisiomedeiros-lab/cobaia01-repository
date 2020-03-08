@@ -21,3 +21,6 @@ This is my two cents (aldisiomedeiros-lab)
 
 # subsection 7
 This is my two cents (Aldisio)
+
+# subsection 8
+Fizxing bug2!!
